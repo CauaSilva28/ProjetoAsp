@@ -1,0 +1,46 @@
+.inicio-container{
+    background-image: url(../assets/imagem1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height:600px;
+    gap:20px;
+}
+.inicio-container h1{
+    font-size:60px;
+    font-weight: bold;
+    color:#ff6600;
+}
+.inicio-container p{
+    width:30%;
+    text-align: center;
+    color:#fff;
+}
+@media (max-width: 1000px) {
+    .inicio-container p{
+        width:80%;
+        text-align: center;
+    }
+}
+
+.inicio-container .inicio-btns{
+    display:flex;
+    gap:20px;
+}
+.inicio-container .inicio-btns a{
+    color:#ff6600;
+    font-weight: bold;
+    border:2px solid #ff6600;
+    border-radius:2em;
+    padding:5px 20px;
+}
+.inicio-container .inicio-btns .btn1{
+    background-color: #ff6600;
+    border:none;
+    color:#fff;
+}
