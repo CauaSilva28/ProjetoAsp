@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoNet1\\ProjetoNet1.csproj",
+      "projectUniqueName": "E:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoAsp\\ProjetoNet1.csproj",
       "projectName": "ProjetoNet1",
-      "projectPath": "E:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoNet1\\ProjetoNet1.csproj",
+      "projectPath": "E:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoAsp\\ProjetoNet1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoNet1\\obj\\",
+      "outputPath": "E:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoAsp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

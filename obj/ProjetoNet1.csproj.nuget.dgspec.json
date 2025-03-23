@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoNet1\\ProjetoNet1.csproj": {}
+    "e:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoAsp\\ProjetoNet1.csproj": {}
   },
   "projects": {
-    "e:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoNet1\\ProjetoNet1.csproj": {
+    "e:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoAsp\\ProjetoNet1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoNet1\\ProjetoNet1.csproj",
+        "projectUniqueName": "e:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoAsp\\ProjetoNet1.csproj",
         "projectName": "ProjetoNet1",
-        "projectPath": "e:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoNet1\\ProjetoNet1.csproj",
+        "projectPath": "e:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoAsp\\ProjetoNet1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "e:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoNet1\\obj\\",
+        "outputPath": "e:\\Área de Trabalho\\licoes Caua\\FATEC\\DesenvolvimentoWeb\\ProjetoAsp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
